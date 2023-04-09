@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Widad-Abdullah
-- 👀 I’m interested in Web Development and AI.
-- 🌱 I’m currently learning Software Engg.
+- 👋 Hi, I’m Widad Abdullah
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently learning Software Engineering
 - 📫 Get in touch via email at widadabdullah@outlook.com
 
 <!---
