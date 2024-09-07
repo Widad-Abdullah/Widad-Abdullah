@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Widad Abdullah</h1>
+![Header](./Banner-image.png)
 <h3 align="center">A final year Software Engineering student at NED University of Engineering and Technology with interest in Web development and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widad-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="widad-abdullah" /> </p>
